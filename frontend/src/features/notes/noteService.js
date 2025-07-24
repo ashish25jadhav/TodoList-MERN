@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://todolist-mern-1-backend.onrender.com/api/users/";
+const API_URL = "https://todolist-mern-backend-mnvk.onrender.com/api/users/";
 
 // Get user's notes
 const getNotes = async (token) => {
